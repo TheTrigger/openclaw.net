@@ -1,0 +1,9 @@
+{
+  "id": "openclaw-claude-code-provider",
+  "name": "OpenClaw Claude Code CLI provider",
+  "version": "1.0.0",
+  "assemblyPath": "OpenClaw.Providers.ClaudeCode.dll",
+  "typeName": "OpenClaw.Providers.ClaudeCode.ClaudeCodeProviderPlugin",
+  "capabilities": ["providers"],
+  "jitOnly": true
+}

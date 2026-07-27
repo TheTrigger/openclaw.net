@@ -45,6 +45,7 @@ Use this page as the map. If you are unsure where to go next, the groups below a
 | [cli/payment.md](cli/payment.md) | `openclaw payment ...` gateway-backed CLI commands and safe output contract. |
 | [cli/routing.md](cli/routing.md) | `openclaw routing ...` commands for onboarding, router modes, tier/provider mapping, and diagnostics. |
 | [mempalace-memory.md](mempalace-memory.md) | Optional ElBruno.MempalaceNet memory provider and temporal KG tool. |
+| [providers/claude-code.md](providers/claude-code.md) | Optional Claude Code CLI provider using OpenClaw-owned sessions and tools. |
 | [FRACTAL_MEMORY.md](FRACTAL_MEMORY.md) | Optional MCP-first Fractal Memory integration for compact structured project memory and Runtime Pulse context. |
 | [providers/microsoft-extensions-ai.md](providers/microsoft-extensions-ai.md) | Optional JIT bridge for arbitrary `Microsoft.Extensions.AI.IChatClient` providers. |
 | [SESSIONS.md](SESSIONS.md) | Session lifecycle, the `SessionManager`, `sessions_spawn` / `sessions_yield` / `sessions` tools, and per-turn token accounting semantics (turn/session/runtime/provider views). |

@@ -23,6 +23,7 @@
     <Project Path="src/OpenClaw.Protocols.Mqtt/OpenClaw.Protocols.Mqtt.csproj" />
     <Project Path="src/OpenClaw.Plugins.Payment/OpenClaw.Plugins.Payment.csproj" />
     <Project Path="src/OpenClaw.Plugins.Mempalace/OpenClaw.Plugins.Mempalace.csproj" />
+    <Project Path="src/OpenClaw.Providers.ClaudeCode/OpenClaw.Providers.ClaudeCode.csproj" />
     <Project Path="src/OpenClaw.Dashboard/OpenClaw.Dashboard.csproj" />
     <Project Path="src/OpenClaw.MicrosoftAgentFrameworkAdapter/OpenClaw.MicrosoftAgentFrameworkAdapter.csproj" />
     <Project Path="src/OpenClaw.SkillKit.Abstractions/OpenClaw.SkillKit.Abstractions.csproj" />
